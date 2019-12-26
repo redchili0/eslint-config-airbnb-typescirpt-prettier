@@ -1,6 +1,6 @@
 {
   "name": "@redchili/eslint-config-airbnb-typescript-prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "ben14 <544652471@qq.com>",
   "license": "MIT",
